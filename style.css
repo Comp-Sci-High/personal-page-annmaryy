@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
 
 body {
-    background-image: url('https://img.freepik.com/premium-vector/hand-drawn-seamless-pattern-with-cute-yellow-flowers-white-background_646146-9.jpg');
+    background-image: url('IMG_1694.jpeg');
     font-family: "Madimi One", sans-serif;
     margin: 0;
     padding: 20px;
@@ -15,21 +15,21 @@ header {
 }
 
 h1 {
-    color: #FFB800;
+    color: pink;
     background-color: rgba(255, 255, 255, 0.8);
     font-size: 48px;
     text-shadow: 2px 2px #fff;
 }
 
 h2 {
-    color: #FF9900;
-    border-bottom: 2px dashed #FF9900;
+    color: pink;
+    border-bottom: 2px dashed pink;
     padding-bottom: 5px;
 }
 
 .profile-pic {
     border-radius: 50%;
-    border: 5px solid #FFB800;
+    border: 5px solid pink;
     width: 200px;
     height: 200px; 
     object-fit: cover;
@@ -47,7 +47,7 @@ section p {
 }
 
 ul {
-    color: #333;
+    color: white;
 }
 
 .favorites-grid {
@@ -62,13 +62,13 @@ ul {
 
 .favorite-item img {
     border-radius: 10px;
-    border: 3px solid #FFB800;
+    border: 3px solid pink;
     width: 200px;
     height: 200px; 
     object-fit: cover;
 }
 
 p {
-    color: #333;
+    color: pink;
     line-height: 1.6;
 }
